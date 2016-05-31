@@ -221,7 +221,7 @@ function create_config( )
     "get",
     "broadcast",
     "download_media",
-    "invite",
+    "sudo_users = {207118312},--Sudo users
     "all",
     "leave_ban",
     "admin"
